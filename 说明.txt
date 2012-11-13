@@ -1,0 +1,14 @@
+Javascript方面：
+	spt-js.zip包中包含了自己制作的类似Javascript框架，可解压缩运行
+
+Java方面：
+	1.运行案例：SPTCSServer0.1.zip SpeakSky.zip两个包
+	2.如何运行：
+		2.1 将SPTCSServer0.1zip解压缩，其中有一个server.xml配置文件，
+		    可将里面的<app host="localhost" port="9090" concurrent="500"/>的服务器地址修改为指定的地址，一般默认即可
+		2.2 将SpeakSky.zip解压缩，其中bin/config.xml配置文件，
+		    可将里面的<server-main host="localhost" port="9090"/>的服务器地址改为指定的地址，一般默认即可
+		2.3 先运行SPTCSServer（服务端），之后运行SpeakSky（客户端）即可
+	
+	3.部分源码：SPT-CS-API.zip，该源码为SPT服务器与客户端的接口API，有部分实现	
+	
