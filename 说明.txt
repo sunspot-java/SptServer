@@ -1,7 +1,7 @@
 Javascript方面：
 	spt-js.zip包中包含了自己制作的类似Javascript框架，可解压缩运行
 
-Java方面：
+Java方面：简要结构说明见"设计.pdf"
 	1.运行案例：SPTCSServer0.1.zip SpeakSky.zip两个包
 	2.如何运行：
 		2.1 将SPTCSServer0.1zip解压缩，其中有一个server.xml配置文件，
